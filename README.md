@@ -62,7 +62,7 @@ CUDA >= 11.0 (for GPU acceleration)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bmi-predictor.git
+git clone https://github.com/APillai03/BMI_Predictor.git
 cd bmi-predictor
 
 # Create virtual environment
